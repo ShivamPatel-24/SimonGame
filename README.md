@@ -7,4 +7,5 @@ Try it - https://shivampatel-24.github.io/SimonGame/
 (Don't forget to press a key in order to start the game)
 
 
-Future additions plan: Add a better way to start the game.
+Future additions plan: 
+  1. Ask the username and save the top five scores with respective player names to the leaderboard.
